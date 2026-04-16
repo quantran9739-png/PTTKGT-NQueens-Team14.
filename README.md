@@ -1,0 +1,1 @@
+# PTTKGT-NQueens-Team14.
